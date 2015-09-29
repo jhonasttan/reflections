@@ -1,5 +1,9 @@
-How did viewing a diff between two versions of a file help you see the bug that was introduced?
-
-The app highlighted the differences only.
+Question: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Answer: The app highlighted the differences only.
 
 So here is another example.
+
+
+Question: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Answer: Manual commits provides you with option to perform logical saves.
+
