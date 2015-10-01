@@ -12,3 +12,6 @@ Answer: version control allows you to group projects. Non version control system
 
 Question: How can you use the commands git log and git diff to view the history of files?
 Answer: git log provides high level view of changes and diff allows you to see the differences per file version.
+
+Question: How might using version control make you more confident to make changes that could break something?
+Answer: I can determine differences between the changes and revert to previous version when required.
