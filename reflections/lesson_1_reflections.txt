@@ -15,3 +15,6 @@ Answer: git log provides high level view of changes and diff allows you to see t
 
 Question: How might using version control make you more confident to make changes that could break something?
 Answer: I can determine differences between the changes and revert to previous version when required.
+
+Question: Now that you have your workspace set up, what do you want to try using Git for?
+Answer: To version control my scripts :)
