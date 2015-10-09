@@ -2,4 +2,6 @@ Question: What happens when you initialize a repository? Why do you need to do i
 Answer: It creates a HEAD and is required to setup the path for version control.
 Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
 Answer: Staging area holds new changes which you can examine / test before committing to git.
+Question:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Answer: When you want to fix a bug or try new functionality or remove functionality that you will need to run and verify that it works before you merge it with existing code base.
  
