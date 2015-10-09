@@ -1,0 +1,5 @@
+Question: What happens when you initialize a repository? Why do you need to do it?
+Answer: It creates a HEAD and is required to setup the path for version control.
+Question: How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer: Staging area holds new changes which you can examine / test before committing to git.
+ 
