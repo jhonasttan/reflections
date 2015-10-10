@@ -8,3 +8,5 @@ Question: How do the diagrams help you visualize the branch structure?
 Answer: Allows you to quickly identify where branch splits took place.
 Question: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Answer: The changes are merged based on time stamps. The diagram reflects the time line of changes.
+Question: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Answer: Pros - will join changes based on timestamps. Cons - requires manual intervention where duplicate or similar code has line conflict.
