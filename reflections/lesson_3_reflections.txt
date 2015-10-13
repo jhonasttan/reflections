@@ -2,3 +2,5 @@ Question: When would you want to use a remote repository rather than keeping all
 Answer: When collaborating with others or when maintaining a repository for contingency.
 Question: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Answer: To manage the level of control on changes or when to pull the desired changes.
+Question: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Answer: Forks are available in github only, allowing you to clone a repository. Clone procedure is the local version of Fork. Branches allow you to seperate from last checkpoint in your local repository and can be merged (if you choose to do so) with original master path at a later time.
