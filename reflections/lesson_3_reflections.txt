@@ -4,3 +4,5 @@ Question: Why might you want to always pull changes manually rather than having 
 Answer: To manage the level of control on changes or when to pull the desired changes.
 Question: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Answer: Forks are available in github only, allowing you to clone a repository. Clone procedure is the local version of Fork. Branches allow you to seperate from last checkpoint in your local repository and can be merged (if you choose to do so) with original master path at a later time.
+Question: What is the benefit of having a copy of the last known state of the remote stored locally?
+Answer: Allows you to view and work from most recent version known to all contributors / collaborators.
