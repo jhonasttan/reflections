@@ -6,3 +6,5 @@ Question: Describe the differences between forks, clones, and branches. When wou
 Answer: Forks are available in github only, allowing you to clone a repository. Clone procedure is the local version of Fork. Branches allow you to seperate from last checkpoint in your local repository and can be merged (if you choose to do so) with original master path at a later time.
 Question: What is the benefit of having a copy of the last known state of the remote stored locally?
 Answer: Allows you to view and work from most recent version known to all contributors / collaborators.
+Question: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer: You can share documents over virtual drives; however, ability to maintain progressive versions of the individual contribution with option to revert changes would be cumbersome.
