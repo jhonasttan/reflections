@@ -8,3 +8,5 @@ Question: What is the benefit of having a copy of the last known state of the re
 Answer: Allows you to view and work from most recent version known to all contributors / collaborators.
 Question: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Answer: You can share documents over virtual drives; however, ability to maintain progressive versions of the individual contribution with option to revert changes would be cumbersome.
+Question: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Answer: Branches allow you to develop a new feature without the worry of overriding / changing the current structure. Github allows you to collaborate with others to then determine if the value add in the branch is worth adding to current feature set.
